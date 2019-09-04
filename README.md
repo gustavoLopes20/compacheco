@@ -11,7 +11,7 @@ E-commerce
 
 <b>Backend:</b><br>
 
-- ASP .NET Core 2.2 Web Api <br>
+- ASP .NET Core 2.2 Web Api (C#) <br>
 - Entity framework core 2.2 <br>
 - MySql <br>
 - JWT Authentication 
